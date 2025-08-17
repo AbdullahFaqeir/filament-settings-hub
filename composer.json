@@ -55,7 +55,7 @@
         "tomatophp/console-helpers": "^1.1",
         "filament/filament": "^3.3",
         "filament/notifications": "^3.3",
-        "filament/spatie-laravel-settings-plugin": "^3.3",
+        "filament/spatie-laravel-settings-plugin": "^3.3|^4.0",
         "spatie/laravel-sitemap": "^7.3"
     },
     "require-dev": {
